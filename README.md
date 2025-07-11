@@ -1,7 +1,7 @@
 <!-- Profile README | Designed with love and a bit of flair -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00B8D9&center=true&vCenter=true&width=480&lines=Hi+there!+I'm+Van+Kirk+Lumantas;Full-stack+Developer;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00B8D9&center=true&vCenter=true&width=480&lines=Hi+there!+I'm+Van+Kirk+Lumantas;Full-stack+Developer+%7C+Open+Source+Enthusiast;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -10,19 +10,16 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
-  <b>Hey, I'm Kirk from the Philippines 🇵🇭</b><br>
-  <i>
-    Passionate about crafting clean, efficient solutions.<br>
-    Currently diving deep into <b>full-stack development</b> and cloud.<br>
-    I love open source, automation, and learning new things.<br>
-    Always up for a good collab or tech talk!
-  </i>
-</p>
-<p align="center">
-  <sub>Fun fact: I may or may not be a chess grandmaster. Challenge me and find out! ♟️</sub>
-</p>
+## 🚀 About Me
+
+**Hey, I'm Kirk from the Philippines 🇵🇭**
+
+&nbsp;&nbsp;&nbsp;&nbsp;Passionate about crafting clean, efficient solutions.  
+&nbsp;&nbsp;&nbsp;&nbsp;Currently diving deep into **full-stack development** and cloud.  
+&nbsp;&nbsp;&nbsp;&nbsp;I love open source, automation, and learning new things.  
+&nbsp;&nbsp;&nbsp;&nbsp;Always up for a good collab or tech talk!
+
+<sub><br>Fun fact: I may or may not be a chess grandmaster. Challenge me and find out! ♟️</sub>
 
 ---
 
@@ -42,9 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalzumaki&show_icons=true&theme=tokyonight&card_width=420" width="420" height="200" alt="kalzumaki's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalzumaki&theme=tokyonight&card_width=420&langs_count=6" width="420" height="200" alt="kalzumaki's Top Langs" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalzumaki&theme=tokyonight" width="430" alt="kalzumaki's Streak Stats"/>
 </p>
 
 ---
