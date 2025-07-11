@@ -46,8 +46,8 @@
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalzumaki&show_icons=true&theme=radical&card_width=400" alt="kalzumaki's Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalzumaki&layout=compact&theme=radical&card_width=400" alt="kalzumaki's Top Langs" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kalzumaki&show_icons=true&theme=radical&card_width=420" alt="kalzumaki's Stats" width="420" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalzumaki&theme=radical&card_width=420&langs_count=5" alt="kalzumaki's Top Langs" width="420" height="200"/>
 </p>
 ---
 
