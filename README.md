@@ -25,10 +25,10 @@ I love open source, automation, and learning new things.
 
   <!-- Languages & Databases -->
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,css,mysql" />
-
+  <br>
   <!-- Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,laravel,spring,firebase,supabase,reactnative,expo,graphql" />
-
+  <br>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode" />
 
