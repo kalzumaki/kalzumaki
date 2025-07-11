@@ -21,16 +21,64 @@
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,mysql,css" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,laravel,spring,git,docker,postman,vscode,reactnative,expo,adonisjs,firebase,supabase,graphql" />
-  <img src="https://img.shields.io/badge/Blade-E44D26?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RESTful%20API-005571?style=flat&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat" />
-</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" colspan="2"><b>Languages & Databases</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,css" /><br>
+      JavaScript, TypeScript, Python, PHP, Java, CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" /><br>
+      MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>Frameworks & Libraries</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,express,nodejs,laravel,spring,adonisjs" /><br>
+      React, React Native, Next.js, Express, Node.js, Laravel, Spring Boot, AdonisJS
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Blade-E44D26?style=flat&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat" /><br>
+      Blade, shadcn/ui
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>APIs & Protocols</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/RESTful%20API-005571?style=flat&logo=rest&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=graphql" /><br>
+      RESTful API, GraphQL
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" /><br>
+      Socket.IO
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><b>Platforms & Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode,expo" /><br>
+      Docker, Git, Postman, VS Code, Expo
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase,supabase" /><br>
+      Firebase, Supabase
+    </td>
+  </tr>
+</table>
+
 ---
 
 <h2 align="center">📊 My GitHub Stats</h2>
