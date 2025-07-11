@@ -1,7 +1,7 @@
 <!-- Profile README | Designed with love and a bit of flair -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00B8D9&center=true&vCenter=true&width=480&lines=Hi+there!+I'm+Van+Kirk+Lumantas;Full-stack+Developer+%7C+Open+Source+Enthusiast;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00B8D9&center=true&vCenter=true&width=480&lines=Hi+there!+I'm+Van+Kirk+Lumantas;Full-stack+Developer;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </p>
 
 <div align="center">
