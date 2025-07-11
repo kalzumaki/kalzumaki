@@ -17,9 +17,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Passionate about crafting clean, efficient solutions.  
 &nbsp;&nbsp;&nbsp;&nbsp;Currently diving deep into **full-stack development** and cloud.  
 &nbsp;&nbsp;&nbsp;&nbsp;I love open source, automation, and learning new things.  
-&nbsp;&nbsp;&nbsp;&nbsp;Always up for a good collab or tech talk!
-
-<sub><br>Fun fact: I may or may not be a chess grandmaster. Challenge me and find out! ♟️</sub>
 
 ---
 
@@ -29,10 +26,12 @@
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,laravel,spring,git,docker,postman,vscode" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat" />
+  <img src="https://skillicons.dev/icons?i=reactnative,expo,adonisjs,firebase,supabase,graphql" />
+  <img src="https://img.shields.io/badge/Blade-E44D26?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTful%20API-005571?style=flat&logo=rest&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat" />
 </p>
-
 ---
 
 <h2 align="center">📊 My GitHub Stats</h2>
