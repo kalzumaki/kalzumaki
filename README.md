@@ -48,7 +48,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalzumaki&show_icons=true&theme=radical" alt="kalzumaki's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalzumaki&theme=radical" alt="kalzumaki's Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalzumaki&layout=compact&theme=radical" alt="kalzumaki's Top Langs" />
 </p>
 
