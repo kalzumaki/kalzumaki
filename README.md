@@ -27,16 +27,7 @@ I love open source, automation, and learning new things.
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,css,mysql" />
 
   <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,laravel,spring,adonisjs" />
-  <img src="https://img.shields.io/badge/Blade-E44D26?style=flat-square&logo=laravel&logoColor=white" title="Blade" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat-square" title="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" title="Socket.IO" />
-
-  <!-- Mobile, APIs, Cloud -->
-  <img src="https://skillicons.dev/icons?i=reactnative,expo" />
-  <img src="https://img.shields.io/badge/RESTful%20API-005571?style=flat-square&logo=rest&logoColor=white" title="RESTful API" />
-  <img src="https://skillicons.dev/icons?i=graphql" />
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,laravel,spring,firebase,supabase,reactnative,expo,graphql" />
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=docker,git,postman,vscode" />
