@@ -44,13 +44,11 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalzumaki&show_icons=true&theme=radical" alt="kalzumaki's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalzumaki&layout=compact&theme=radical" alt="kalzumaki's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalzumaki&show_icons=true&theme=radical&card_width=400" alt="kalzumaki's Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalzumaki&layout=compact&theme=radical&card_width=400" alt="kalzumaki's Top Langs" width="400"/>
 </p>
-
 ---
 
 ### 📫 How to reach me
