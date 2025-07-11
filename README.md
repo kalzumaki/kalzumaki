@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,mysql,css" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,laravel,spring,git,docker,postman,vscode,reactnative,expo,adonisjs,firebase,supabase,graphql,blade" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,laravel,spring,git,docker,postman,vscode,reactnative,expo,adonisjs,firebase,supabase,graphql" />
   <img src="https://img.shields.io/badge/Blade-E44D26?style=flat&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/RESTful%20API-005571?style=flat&logo=rest&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
