@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Van Kirk</h1>
+<h1 align="center">Hi, I'm Van Kirk</h1>
 <h3 align="center" style="color:#b983ff;">A passionate full-stack developer from the Philippines</h3>
 
 <p align="left">
