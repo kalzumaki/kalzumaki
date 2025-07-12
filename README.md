@@ -34,16 +34,17 @@
 
 <h3 align="left" style="color:#b983ff;">Languages & Tools</h3>
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <!-- Frontend Frameworks -->
+<!-- Frontend Frameworks & Libraries -->
+<strong>Frontend Frameworks & Libraries</strong><br>
+<p align="left">
   <a href="https://reactjs.org/" target="_blank" title="React">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" title="React Native">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" />
-  </a>
   <a href="https://nextjs.org/" target="_blank" title="Next.js">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="NextJS" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" title="React Native">
+    <img src="https://reactnative.dev/img/header_logo.svg" width="40" alt="React Native" />
   </a>
   <a href="https://framer.com/" target="_blank" title="Framer">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" alt="Framer" />
@@ -57,8 +58,11 @@
   <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS3" />
   </a>
+</p>
 
-  <!-- Backend Frameworks -->
+<!-- Backend Frameworks & Platforms -->
+<strong>Backend Frameworks & Platforms</strong><br>
+<p align="left">
   <a href="https://nodejs.org/" target="_blank" title="Node.js">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="NodeJS" />
   </a>
@@ -86,8 +90,11 @@
   <a href="https://dotnet.microsoft.com/" target="_blank" title=".NET">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" alt=".NET" />
   </a>
+</p>
 
-  <!-- Databases & Data -->
+<!-- Databases & Data -->
+<strong>Databases & Data</strong><br>
+<p align="left">
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
   </a>
@@ -109,8 +116,11 @@
   <a href="https://graphql.org/" target="_blank" title="GraphQL">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" alt="GraphQL" />
   </a>
+</p>
 
-  <!-- DevOps & Tools -->
+<!-- DevOps, Testing & API -->
+<strong>DevOps, Testing & API</strong><br>
+<p align="left">
   <a href="https://docker.com/" target="_blank" title="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
   </a>
@@ -138,8 +148,11 @@
   <a href="https://linux.org/" target="_blank" title="Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux" />
   </a>
+</p>
 
-  <!-- Programming Languages -->
+<!-- Programming Languages -->
+<strong>Programming Languages</strong><br>
+<p align="left">
   <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
   </a>
@@ -152,8 +165,11 @@
   <a href="https://www.cplusplus.com/" target="_blank" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
   </a>
+</p>
 
-  <!-- Design & UI -->
+<!-- Design & Visualization -->
+<strong>Design & Visualization</strong><br>
+<p align="left">
   <a href="https://figma.com/" target="_blank" title="Figma">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" alt="Figma" />
   </a>
@@ -170,6 +186,7 @@
     <img src="https://www.chartjs.org/media/logo-title.svg" width="40" alt="ChartJS" />
   </a>
 </p>
+
 ---
 
 <p align="center">
