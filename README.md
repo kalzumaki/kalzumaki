@@ -19,13 +19,13 @@
 
 <h3 align="left" style="color:#b983ff;">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/van-kirk-lumantas-921b10357/" target="_blank">
+  <a href="https://www.linkedin.com/in/van-kirk-lumantas-921b10357/" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%23795EFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/kalzumaki.91" target="_blank">
+  <a href="https://fb.com/kalzumaki.91" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.shields.io/badge/Facebook-%238f5eff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-    <a href="mailto:vankirklumantas.dev@gmail.com" target="_blank">
+    <a href="mailto:vankirklumantas.dev@gmail.com" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.shields.io/badge/Email-%23b983ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
