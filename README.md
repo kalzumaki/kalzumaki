@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Van Kirk</h1>
-<h3 align="center" style="color:#b983ff;">A passionate full-stack developer from the Philippines</h3>
+<h3 align="center" style="color:#b983ff;">A passionate software developer from the Philippines</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kalzumaki&label=Profile%20views&color=8f5eff&style=flat" alt="kalzumaki" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=B983FF&center=true&vCenter=true&width=450&lines=Full-stack+Developer;Open+Source+Enthusiast;Clean+Code+Advocate;Cloud+and+Mobile+Lover;Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=B983FF&center=true&vCenter=true&width=450&lines=Software+Developer;Open+Source+Fan;Clean+Code+Believer;Cloud+and+Mobile+Lover;Learn.+Build.+Repeat.;" alt="Typing SVG" />
 </p>
 
 ---
