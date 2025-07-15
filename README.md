@@ -11,7 +11,7 @@
 
 ---
 
-- 👨‍💻 All of my projects are available at [Van Kirk's Portfolio](https://portfolio-bn2l.onrender.com/)
+- 👨‍💻 All of my projects are available at [Van Kirk's Portfolio](https://vankirk-portfolio.vercel.app/)
 - 🤝 Love collaborating in open source and tech communities
 - 💡 Always experimenting with new tech stacks, cloud, and automation
 
