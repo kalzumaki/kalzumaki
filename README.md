@@ -166,6 +166,9 @@
   <a href="https://www.cplusplus.com/" target="_blank" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
   </a>
+  <a href="https://jupyter.org/" target="_blank" title="Jupyter Notebook">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" alt="Jupyter Notebook" />
+  </a>
 </p>
 
 <!-- Design & Visualization -->
