@@ -1,69 +1,57 @@
-<h1 align="center">Hi, I'm Van Kirk</h1>
-<h3 align="center" style="color:#b983ff;">A passionate software developer from the Philippines</h3>
+# Hi, I'm Van Kirk 👋
 
-<p align="left">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=B983FF&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Open+Source+Contributor;Clean+Code+Believer;Always+Learning" alt="Typing SVG" />
+</div>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalzumaki&label=Profile%20views&color=8f5eff&style=flat" alt="kalzumaki" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=B983FF&center=true&vCenter=true&width=450&lines=Software+Developer;Open+Source+Fan;Clean+Code+Believer;Cloud+and+Mobile+Lover;Learn.+Build.+Repeat.;" alt="Typing SVG" />
-</p>
-
----
+## 🚀 About Me
 
 - 👨‍💻 All of my projects are available at [Van Kirk's Portfolio](https://vankirk-portfolio.vercel.app/)
 - 🤝 Love collaborating in open source and tech communities
 - 💡 Always experimenting with new tech stacks, cloud, and automation
+- 📧 Reach me at: vankirklumantas.dev@gmail.com
 
----
+## 🛠️ Tech Stack
 
-<h3 align="left" style="color:#b983ff;">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/van-kirk-lumantas-921b10357/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-%23795EFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/kalzumaki.91">
-    <img align="center" src="https://img.shields.io/badge/Facebook-%238f5eff?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:vankirklumantas.dev@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Email-%23b983ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
----
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<h3 align="left" style="color:#b983ff;">Languages & Tools</h3>
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<!-- Animated Tech Stack GIF-style row (marquee version for best compatibility in README) -->
-<marquee direction="left" scrollamount="6">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" alt="React" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" alt="NextJS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" alt="Firebase" />
-  <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40" alt="Supabase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" alt="Laravel" />
-  <img src="https://socket.io/images/logo.svg" width="40" alt="Socket.IO" />
-</marquee>
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalzumaki&show_icons=true&locale=en&layout=compact&theme=radical" width="400" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kalzumaki&show_icons=true&locale=en&theme=radical" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kalzumaki&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalzumaki&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+## 🤝 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/van-kirk-lumantas-921b10357/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/kalzumaki.91)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vankirklumantas.dev@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8f5eff&height=90&section=footer"/>
-  <br>
-  <b style="color:#b983ff;">Thanks for stopping by!</b>
-</p>
+<p align="center">Thanks for stopping by! 🚀</p>
