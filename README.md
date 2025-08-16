@@ -13,8 +13,7 @@
 - 👨‍💻 All of my projects are available at [Van Kirk's Portfolio](https://vankirk-portfolio.vercel.app/)
 - 🤝 Love collaborating in open source and tech communities
 - 💡 Always experimenting with new tech stacks, cloud, and automation
-- 📧 Reach me at: vankirklumantas.dev@gmail.com
-
+- 🐍 Currently learning about AI & data analytics using Python (Jupyter Notebook)
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -27,6 +26,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 ### Database
