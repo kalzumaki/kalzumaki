@@ -68,13 +68,13 @@
 
 
 ---
-## GitHub Analytics
+## Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalzumaki&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=kalzumaki&show_icons=true&theme=midnight-purple" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalzumaki&layout=compact&theme=midnight-purple" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalzumaki&theme=black-ice" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalzumaki&theme=black-ice" alt="GitHub Streak" /> -->
   <br>
 </p>
 
