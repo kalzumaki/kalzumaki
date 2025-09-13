@@ -42,14 +42,6 @@ I am a passionate full-stack developer with a strong commitment to writing clean
 
 
 ---
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalzumaki&layout=compact&theme=midnight-purple" alt="Top Languages" />
-</p>
-
-
----
 ## Connect with Me
 
 <p align="center">
