@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>Hi, I'm Van Kirk</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=8f5eff&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Open+Source+Contributor;Clean+Code+Believer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=8f5eff&center=true&vCenter=true&width=450&lines=Full-Stack+Developer;Code+Explorer;Clean+Code+Believer;Always+Learning" alt="Typing SVG" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=kalzumaki&label=Profile%20views&color=000000&style=flat" alt="kalzumaki" />
 </div>
