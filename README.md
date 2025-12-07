@@ -10,7 +10,7 @@
 ## About Me
 
 I'm a full-stack developer who loves building clean, modern web apps. I’m always exploring new tools and improving my workflow.  
-Currently, I’m focusing on **Laravel**, especially **Livewire** and **Inertia (React)**, while also sharpening my Python and data analytics skills.
+Currently, I’m focusing on **Laravel**, especially **Livewire** and **Inertia (React)**, while sharpening my skills in **data modeling** and backend architecture.
 
 ---
 
@@ -25,11 +25,9 @@ Currently, I’m focusing on **Laravel**, especially **Livewire** and **Inertia 
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![Inertia](https://img.shields.io/badge/Inertia-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&)
 
 ---
 
